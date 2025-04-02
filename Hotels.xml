@@ -12,7 +12,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-        <Hotel Rating="5.0">
+        <Hotel>
         <Name>Four Seasons Resort Scottsdale at Troon North</Name>
         <Phone>480-515-5700</Phone>
         <Address NearestAirport="Phoenix Sky Harbor International Airport">
@@ -56,7 +56,7 @@
             <Zip>85262</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.5">
+    <Hotel>
         <Name>Sanctuary Camelback Mountain, A Gurney&apos;s Resort &amp; Spa</Name>
         <Phone>855-421-3522</Phone>
         <Address NearestAirport="Phoenix Sky Harbor International Airport">
